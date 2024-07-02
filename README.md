@@ -66,6 +66,8 @@ distractors from the other nouns in the sentence.
 Shuffle Answer Choices: It shuffles the answer choices to avoid any bias.
 
 Append MCQ to List: It appends the generated MCQ (question stem, answer choices, and correct answer) to the list of MCQs.
+![image](https://github.com/kartikmongia/MCQ_Generator_Application_2/assets/135815798/dd2e93cd-15d0-41c5-8444-15d516c2908e)
+
 
 Return MCQs: Finally, it returns the list of generated MCQs.
 
