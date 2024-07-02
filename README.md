@@ -3,6 +3,8 @@ Introduction:
 Our project aims to generate multiple-choice questions (MCQs) using machine learning and natural language processing (NLP) techniques. MCQs are widely used in educational assessments to evaluate students' understanding of a given topic. By automating the generation of MCQs, educators can save time and effort while ensuring the quality and relevance of the questions.
 
 Part 2:
+![image](https://github.com/kartikmongia/MCQ_Generator_Application_2/assets/135815798/a0b4260e-e21c-4520-b1b7-0997a3597650)
+
 code:
 Load English tokenizer, tagger, parser, NER, and word vectors
 nlp = spacy.load("en_core_web_sm")
