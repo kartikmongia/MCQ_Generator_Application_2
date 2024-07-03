@@ -2,3 +2,4 @@ flask-bootstrap
 flask
 spacy
 PyPDF2
+gunicorn
